@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "482346014585",
+    "firebase_url": "https://ghn-authentication.firebaseio.com",
+    "project_id": "ghn-authentication",
+    "storage_bucket": "ghn-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482346014585:android:dd7250383e8a24bf21c1a8",
+        "android_client_info": {
+          "package_name": "com.amirkalmoni.ghn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482346014585-la7vq0sha8hc38v9j9b1t77ira35jtrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCibbH9NC4NZ6ieNSiM8-TTDhR34N76pTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482346014585-la7vq0sha8hc38v9j9b1t77ira35jtrf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482346014585-cfjrocuuj5g7ofh23uai2l75gbjcq6rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amirkalmoni.GHN"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482346014585:android:3945de39d35f6147",
+        "android_client_info": {
+          "package_name": "com.amirkalmoni.ghnauthenticationfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482346014585-la7vq0sha8hc38v9j9b1t77ira35jtrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCibbH9NC4NZ6ieNSiM8-TTDhR34N76pTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482346014585-la7vq0sha8hc38v9j9b1t77ira35jtrf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482346014585-cfjrocuuj5g7ofh23uai2l75gbjcq6rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amirkalmoni.GHN"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482346014585:android:7fe6ca1e9b6f9d75",
+        "android_client_info": {
+          "package_name": "com.example.amirkalmoni.ghnauthenticationfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482346014585-g4tb1g9i116dntkfl7gf6deerc61hmkq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.amirkalmoni.ghnauthenticationfinal",
+            "certificate_hash": "954314aebd0377c56d1038bd5fbd3d86be12797b"
+          }
+        },
+        {
+          "client_id": "482346014585-la7vq0sha8hc38v9j9b1t77ira35jtrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCibbH9NC4NZ6ieNSiM8-TTDhR34N76pTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482346014585-la7vq0sha8hc38v9j9b1t77ira35jtrf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "482346014585-cfjrocuuj5g7ofh23uai2l75gbjcq6rk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.amirkalmoni.GHN"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
