@@ -680,68 +680,68 @@ namespace GHNcrossplatform.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7F090000
-			public const int app_name = 2131296256;
-			
 			// aapt resource value: 0x7F090001
-			public const int common_google_play_services_enable_button = 2131296257;
+			public const int app_name = 2131296257;
 			
 			// aapt resource value: 0x7F090002
-			public const int common_google_play_services_enable_text = 2131296258;
+			public const int common_google_play_services_enable_button = 2131296258;
 			
 			// aapt resource value: 0x7F090003
-			public const int common_google_play_services_enable_title = 2131296259;
+			public const int common_google_play_services_enable_text = 2131296259;
 			
 			// aapt resource value: 0x7F090004
-			public const int common_google_play_services_install_button = 2131296260;
+			public const int common_google_play_services_enable_title = 2131296260;
 			
 			// aapt resource value: 0x7F090005
-			public const int common_google_play_services_install_text = 2131296261;
+			public const int common_google_play_services_install_button = 2131296261;
 			
 			// aapt resource value: 0x7F090006
-			public const int common_google_play_services_install_title = 2131296262;
+			public const int common_google_play_services_install_text = 2131296262;
 			
 			// aapt resource value: 0x7F090007
-			public const int common_google_play_services_notification_channel_name = 2131296263;
+			public const int common_google_play_services_install_title = 2131296263;
 			
 			// aapt resource value: 0x7F090008
-			public const int common_google_play_services_notification_ticker = 2131296264;
+			public const int common_google_play_services_notification_channel_name = 2131296264;
 			
 			// aapt resource value: 0x7F090009
-			public const int common_google_play_services_unknown_issue = 2131296265;
+			public const int common_google_play_services_notification_ticker = 2131296265;
 			
 			// aapt resource value: 0x7F09000A
-			public const int common_google_play_services_unsupported_text = 2131296266;
+			public const int common_google_play_services_unknown_issue = 2131296266;
 			
 			// aapt resource value: 0x7F09000B
-			public const int common_google_play_services_update_button = 2131296267;
+			public const int common_google_play_services_unsupported_text = 2131296267;
 			
 			// aapt resource value: 0x7F09000C
-			public const int common_google_play_services_update_text = 2131296268;
+			public const int common_google_play_services_update_button = 2131296268;
 			
 			// aapt resource value: 0x7F09000D
-			public const int common_google_play_services_update_title = 2131296269;
+			public const int common_google_play_services_update_text = 2131296269;
 			
 			// aapt resource value: 0x7F09000E
-			public const int common_google_play_services_updating_text = 2131296270;
+			public const int common_google_play_services_update_title = 2131296270;
 			
 			// aapt resource value: 0x7F09000F
-			public const int common_google_play_services_wear_update_text = 2131296271;
+			public const int common_google_play_services_updating_text = 2131296271;
 			
 			// aapt resource value: 0x7F090010
-			public const int common_open_on_phone = 2131296272;
+			public const int common_google_play_services_wear_update_text = 2131296272;
 			
 			// aapt resource value: 0x7F090011
-			public const int common_signin_button_text = 2131296273;
+			public const int common_open_on_phone = 2131296273;
 			
 			// aapt resource value: 0x7F090012
-			public const int common_signin_button_text_long = 2131296274;
+			public const int common_signin_button_text = 2131296274;
 			
 			// aapt resource value: 0x7F090013
-			public const int hello = 2131296275;
+			public const int common_signin_button_text_long = 2131296275;
 			
 			// aapt resource value: 0x7F090014
 			public const int status_bar_notification_info_overflow = 2131296276;
+			
+			// aapt resource value: 0x7F090000
+			public const int Test = 2131296256;
 			
 			static String()
 			{

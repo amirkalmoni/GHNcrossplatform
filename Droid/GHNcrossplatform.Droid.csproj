@@ -154,6 +154,18 @@
     <Reference Include="System.Reactive">
       <HintPath>..\packages\System.Reactive.4.0.0\lib\netstandard2.0\System.Reactive.dll</HintPath>
     </Reference>
+    <Reference Include="Xamarin.Firebase.Database.Collection">
+      <HintPath>..\packages\Xamarin.Firebase.Database.Collection.71.1601.4\lib\monoandroid90\Xamarin.Firebase.Database.Collection.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Firebase.Common">
+      <HintPath>..\packages\Xamarin.Firebase.Common.71.1610.4\lib\monoandroid90\Xamarin.Firebase.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Firebase.Database.Connection">
+      <HintPath>..\packages\Xamarin.Firebase.Database.Connection.71.1601.4\lib\monoandroid90\Xamarin.Firebase.Database.Connection.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Firebase.Database">
+      <HintPath>..\packages\Xamarin.Firebase.Database.71.1601.4\lib\monoandroid90\Xamarin.Firebase.Database.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\GHNcrossplatform\GHNcrossplatform.csproj">
@@ -172,6 +184,7 @@
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="packages.config" />
+    <None Include="google-services.json" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Main.axml" />
@@ -217,4 +230,8 @@
   <Import Project="..\packages\Xamarin.GooglePlayServices.Tasks.71.1601.4\build\MonoAndroid90\Xamarin.GooglePlayServices.Tasks.targets" Condition="Exists('..\packages\Xamarin.GooglePlayServices.Tasks.71.1601.4\build\MonoAndroid90\Xamarin.GooglePlayServices.Tasks.targets')" />
   <Import Project="..\packages\Xamarin.GooglePlayServices.Base.71.1610.4\build\MonoAndroid90\Xamarin.GooglePlayServices.Base.targets" Condition="Exists('..\packages\Xamarin.GooglePlayServices.Base.71.1610.4\build\MonoAndroid90\Xamarin.GooglePlayServices.Base.targets')" />
   <Import Project="..\packages\Xamarin.GooglePlayServices.Flags.71.1601.4\build\MonoAndroid90\Xamarin.GooglePlayServices.Flags.targets" Condition="Exists('..\packages\Xamarin.GooglePlayServices.Flags.71.1601.4\build\MonoAndroid90\Xamarin.GooglePlayServices.Flags.targets')" />
+  <Import Project="..\packages\Xamarin.Firebase.Database.Collection.71.1601.4\build\MonoAndroid90\Xamarin.Firebase.Database.Collection.targets" Condition="Exists('..\packages\Xamarin.Firebase.Database.Collection.71.1601.4\build\MonoAndroid90\Xamarin.Firebase.Database.Collection.targets')" />
+  <Import Project="..\packages\Xamarin.Firebase.Common.71.1610.4\build\MonoAndroid90\Xamarin.Firebase.Common.targets" Condition="Exists('..\packages\Xamarin.Firebase.Common.71.1610.4\build\MonoAndroid90\Xamarin.Firebase.Common.targets')" />
+  <Import Project="..\packages\Xamarin.Firebase.Database.Connection.71.1601.4\build\MonoAndroid90\Xamarin.Firebase.Database.Connection.targets" Condition="Exists('..\packages\Xamarin.Firebase.Database.Connection.71.1601.4\build\MonoAndroid90\Xamarin.Firebase.Database.Connection.targets')" />
+  <Import Project="..\packages\Xamarin.Firebase.Database.71.1601.4\build\MonoAndroid90\Xamarin.Firebase.Database.targets" Condition="Exists('..\packages\Xamarin.Firebase.Database.71.1601.4\build\MonoAndroid90\Xamarin.Firebase.Database.targets')" />
 </Project>

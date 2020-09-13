@@ -43,10 +43,10 @@ namespace GHNcrossplatform.Droid
             if (app == null) 
             {
                 var options = new FirebaseOptions.Builder()
-                .SetApplicationId("ghn - authentication")
-                .SetApiKey("AIzaSyCibbH9NC4NZ6ieNSiM8-TTDhR34N76pTM")
-                .SetDatabaseUrl("https://ghn-authentication.firebaseio.com")
-                .SetStorageBucket("ghn-authentication.appspot.com")
+                .SetApplicationId("ghn-crossplatform")
+                .SetApiKey("AIzaSyBTKJQ4iyDEF8boX0Ls0LjgV7HrEinwBsM")
+                .SetDatabaseUrl("https://ghn-crossplatform.firebaseio.com")
+                .SetStorageBucket("ghn-crossplatform.appspot.com")
                 .Build();
 
 
